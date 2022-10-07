@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Verdoze
+- 👀 I’m interested in IT, video games, physics
+- 🌱 I’m currently learning C# (OOP), WPF, HTML/CSS/Bootstrap, Python,  
+- 💞️ I’m looking to collaborate on whatever
+- 📫 How to reach me : caruso.enzo42000@gmail.com
